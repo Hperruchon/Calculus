@@ -1,0 +1,15 @@
+C:\Users\Henri\Source\Repos\Hperruchon\Calculus\Calculus.Core\bin\Debug\net8.0\Calculus.Core.exe
+C:\Users\Henri\Source\Repos\Hperruchon\Calculus\Calculus.Core\bin\Debug\net8.0\Calculus.Core.deps.json
+C:\Users\Henri\Source\Repos\Hperruchon\Calculus\Calculus.Core\bin\Debug\net8.0\Calculus.Core.runtimeconfig.json
+C:\Users\Henri\Source\Repos\Hperruchon\Calculus\Calculus.Core\bin\Debug\net8.0\Calculus.Core.dll
+C:\Users\Henri\Source\Repos\Hperruchon\Calculus\Calculus.Core\bin\Debug\net8.0\Calculus.Core.pdb
+C:\Users\Henri\Source\Repos\Hperruchon\Calculus\Calculus.Core\obj\Debug\net8.0\Calculus.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henri\Source\Repos\Hperruchon\Calculus\Calculus.Core\obj\Debug\net8.0\Calculus.Core.AssemblyInfoInputs.cache
+C:\Users\Henri\Source\Repos\Hperruchon\Calculus\Calculus.Core\obj\Debug\net8.0\Calculus.Core.AssemblyInfo.cs
+C:\Users\Henri\Source\Repos\Hperruchon\Calculus\Calculus.Core\obj\Debug\net8.0\Calculus.Core.csproj.CoreCompileInputs.cache
+C:\Users\Henri\Source\Repos\Hperruchon\Calculus\Calculus.Core\obj\Debug\net8.0\Calculus.Core.sourcelink.json
+C:\Users\Henri\Source\Repos\Hperruchon\Calculus\Calculus.Core\obj\Debug\net8.0\Calculus.Core.dll
+C:\Users\Henri\Source\Repos\Hperruchon\Calculus\Calculus.Core\obj\Debug\net8.0\refint\Calculus.Core.dll
+C:\Users\Henri\Source\Repos\Hperruchon\Calculus\Calculus.Core\obj\Debug\net8.0\Calculus.Core.pdb
+C:\Users\Henri\Source\Repos\Hperruchon\Calculus\Calculus.Core\obj\Debug\net8.0\Calculus.Core.genruntimeconfig.cache
+C:\Users\Henri\Source\Repos\Hperruchon\Calculus\Calculus.Core\obj\Debug\net8.0\ref\Calculus.Core.dll
